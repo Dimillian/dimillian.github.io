@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://Dimillian.github.io
+url: http://dimillian.github.io
 title: Dimillian's blog
 subtitle: Sample
 author: Thomas Ricouard
 simple_search: http://google.com/search
-description:
+description: Sample
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -63,13 +63,13 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user:Dimillian
+github_user: Dimillian
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:Dimillian
+twitter_user: Dimillian
 twitter_tweet_button: true
 
 # Google +1
@@ -86,7 +86,7 @@ pinboard_user:
 pinboard_count: 3
 
 # Delicious
-delicious_user:Dimillian
+delicious_user:
 delicious_count: 3
 
 # Disqus Comments
